@@ -23,19 +23,19 @@ cd movie-reviews-analytics
 ```
 
 ### Setup Cloudera and VMware Environment
--Set up a Cloudera environment following the official documentation.
--Configure VMware virtualization to seamlessly integrate with Cloudera.
--Data Retrieval and Processing
--Upload the movie reviews dataset to your Cloudera environment.
--Use Apache Pig scripts in the scripts/ directory for data processing tasks.
--Data Analysis with Apache Hive
--Execute complex queries using Apache Hive for in-depth analysis.
--Explore the results and gain insights into user sentiments and preferences.
+- Set up a Cloudera environment following the official documentation.
+- Configure VMware virtualization to seamlessly integrate with Cloudera.
+- Data Retrieval and Processing
+- Upload the movie reviews dataset to your Cloudera environment.
+- Use Apache Pig scripts in the scripts/ directory for data processing tasks.
+- Data Analysis with Apache Hive
+- Execute complex queries using Apache Hive for in-depth analysis.
+- Explore the results and gain insights into user sentiments and preferences.
 
 ### If you'd like to contribute to this project, please follow the standard GitHub flow:
 
--Fork the repository
--Create a new branch (git checkout -b feature/new-feature)
--Make your changes and commit them (git commit -am 'Add new feature')
--Push to the branch (git push origin feature/new-feature)
--Create a new Pull Request
+- Fork the repository
+- Create a new branch (git checkout -b feature/new-feature)
+- Make your changes and commit them (git commit -am 'Add new feature')
+- Push to the branch (git push origin feature/new-feature)
+- Create a new Pull Request
